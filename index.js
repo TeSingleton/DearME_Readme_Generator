@@ -16,7 +16,7 @@ const questions = [
   },
   {
     type: "input",
-    message: "Please enter a detailed descripition of your project",
+    message: "Please enter a detailed description of your project",
     name: "description",
   },
   {
@@ -32,7 +32,7 @@ const questions = [
   },
   {
     type: "input",
-    message: "Provide guidelines for contribnuting to this project.",
+    message: "Provide guidelines for contributing to this project.",
     name: "contributing",
   },
   {
@@ -81,15 +81,10 @@ const questions = [
 function writeToFile(fileName, data) {}
 
 // TODO: Create a function to initialize app
-function init() {
-  inquirer.prompt(questions).then(function (data) {
-    console.log(data);
-    writeToFile("./"(data));
-    console.log("");
-  });
-  // Ask the User questions
-  // THEN I want to pass the response to generateMD so we can get the  markdown
-}
+function init() {}
+
+// Ask the User questions
+// THEN I want to pass the response to generateMD so we can get the  markdown
 
 // function call to initialize app
 init();
