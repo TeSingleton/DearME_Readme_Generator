@@ -5,6 +5,9 @@
 // MIT  License
 // BSD 2-clause "Simplified" License
 // BSD 3-clause "New" or "Revised" License
+
+let licenseSection = "";
+
 function renderLicenseSection(license) {
     if (license === "Apache 2.0") {
         
@@ -21,20 +24,24 @@ function renderLicenseSection(license) {
     };
 
 
-function renderTitle(title) {
-  return `# ${data.title}`;
+// function renderTitle(title) {
+//   return `# ${data.title}`;
 
-  // data.title
-  // data.description
-  // data.authorName
+//   // data.title
+//   // data.description
+//   // data.authorName
+
+// }
 
   // TODO: Create a function to generate markdown for README
   function generateMarkdown(data) {
-    return `${renderTitle(data.title)}`;
+    return `
+    # ${(data.title)}
+    ${license}
+    `;
 
   }
 
-}
 
 //     `# <Your-Project-Title>
 
@@ -84,3 +91,6 @@ function renderTitle(title) {
 //     ${}
 //   }
 // }
+
+
+// export markdown

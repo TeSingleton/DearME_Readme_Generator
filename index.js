@@ -2,7 +2,7 @@
 // write file
 const fs = require("fs");
 // ask the user for data //file system
-const inquirer = require("inquire");
+const inquirer = require("inquirer");
 
 const questions = require("./utils/questions")
 // generate the html // inquire  npm package that provides an easy way to capture user input.
@@ -22,7 +22,7 @@ inquirer
 
     .then((answers) =>
     {
-        fs.writeFile('DearMe', generateMD(answers),
+        fs.writeFile('DearMe', generateMd(answers),
         (err) =>
         err ? console.error(err) : console.log('Success! Your "MARKDOWN.md" file is located in your files'))
     })
