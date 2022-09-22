@@ -5,21 +5,21 @@
 // MIT  License
 // BSD 2-clause "Simplified" License
 // BSD 3-clause "New" or "Revised" License
-function renderLicenseSection(License) {
-    if (condition) {
+function renderLicenseSection(license) {
+    if (license === "Apache 2.0") {
         
-    }else if (condition) {
+    }else if (license === "GNU GPL V3") {
         
-    }else if (condition) {
+    }else if (license === "MIT") {
         
-    } else if (condition) {
+    } else if (license === "BSD 2-clause License") {
         
-    } else {
-        
+    } else  if(license ==='No License'){
+        return ""}
     }{
         
-    }
-}
+    };
+
 
 function renderTitle(title) {
   return `# ${data.title}`;
@@ -28,12 +28,13 @@ function renderTitle(title) {
   // data.description
   // data.authorName
 
-  // TODO: Create a funtion to generate markdown for README
+  // TODO: Create a function to generate markdown for README
   function generateMarkdown(data) {
     return `${renderTitle(data.title)}`;
 
-  
+  }
 
+}
 
 //     `# <Your-Project-Title>
 
