@@ -22,7 +22,7 @@ inquirer
 
     .then((answers) =>
     {
-        fs.writeFile('DearMe', generateMd(answers),
+        fs.writeFile('DearMe.md', generateMd(answers),
         (err) =>
         err ? console.error(err) : console.log('Success! Your "MARKDOWN.md" file is located in your files'))
     })

@@ -37,8 +37,8 @@
 
     Any inquiries , feel free to reach out
 
-    GitHub : <a href="https://github.com/TeSingleton">TeSingleton</a>
+    GitHub : <a href="https://github.com/k">k</a>
 
-    Email:  <a href="mailto:worksingletonmcdaniel@gmail.com">worksingletonmcdaniel@gmail.com</a>
+    Email:  <a href="mailto:TeSingleton">TeSingleton</a>
 
     
