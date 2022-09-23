@@ -42,6 +42,7 @@ const questions = [
     name: "email",
   },
   {
+    name: "licensing",
     type: "list",
     message: "Which license",
     choices: [
@@ -51,7 +52,7 @@ const questions = [
       "BSD 3",
       "None (Don't print a badge)",
     ],
-    name: "licensing",
+
     // this is the license section of the readme
   },
   // {
