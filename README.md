@@ -8,13 +8,10 @@
 
     ## Table of Contents 
      
-* [Description](#description)
-* [Installation](#installation)
-* [Usage](#usage)
-* [Contributing](#contributing)
-* [Tests](#tests)
-* [Questions?](#questions)
-* [To-be-completed](#to-be-completed) 
+- [DearMe: A README Generator](#dearme-a-readme-generator)
+  - [Description](#description)
+  - [Questions?](#questions)
+  - [To-Be-Completed](#to-be-completed)
     ## Installation 
     Clone the repo. Run `npm i` in the terminal, once depndencies have been downloaded run `node index.js`. Then Follow the prompts
 
@@ -37,6 +34,10 @@
  ## Questions?
 
     Any inquiries , feel free to reach out
+
+ ## To-Be-Completed
+
+  *  License data is not populating correctly and will be adjusted.  
 
   GitHub : <a href="https://github.com/TeSingleton">TeSingleton</a>
 
