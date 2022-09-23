@@ -1,12 +1,12 @@
 
   
-    # read
+    # DearMe: A README Generator
 
     ##Description
 
-    djkdjdj
+    A Project built with Node.js and the inquirer package to create a README for your next project.
 
-    ## Table of Contents (clickable)
+    ## Table of Contents 
      
     * [Description] (#description)
     * [Installation] (#installation)
@@ -16,11 +16,11 @@
     * [Questions?] (#questions)
     
     ## Installation 
-    dkdkd
+    Clone the repo. Run `npm i` in the terminal, once depndencies have been downloaded run `node index.js`. Then Follow the prompts
 
     ## Usage
 
-    kdjfif
+    Use this application to create a readme faster
 
     ## License
 
@@ -28,11 +28,11 @@
 
     ## Contributing
 
-    svhja
+    All work is welcome . Please create an issue for any big changes
 
     ## Tests
 
-    shfg
+    
 
     ##Questions?
 

@@ -1,45 +1,45 @@
 
   
-    # g
+    # DearMe: A README Generator
 
     ##Description
 
-    g
+    A Project built with Node.js and the inquirer package to create a README for your next project.
 
-    ## Table of Contents (clickable)
+    ## Table of Contents 
      
-    * [Description] (#description)
-    * [Installation] (#installation)
-    * [Usage] (#usage)
-    * [Contributing] (#contributing)
-    * [Tests] (#tests)
-    * [Questions?] (#questions)
+* [Description] (#description)
+* [Installation] (#installation)
+* [Usage] (#usage)
+* [Contributing] (#contributing)
+* [Tests] (#tests)
+* [Questions?] (#questions)
     
     ## Installation 
-    g
+    Clone the repo. Run `npm i` in the terminal, once depndencies have been downloaded run `node index.js`. Then Follow the prompts
 
     ## Usage
 
-    g
+    Use this application to create a readme faster
 
     ## License
 
-    undefined
+    
 
     ## Contributing
 
-    g
+    All work is welcome . Please create an issue for any big changes
 
     ## Tests
 
-    g
+    
 
     ##Questions?
 
     Any inquiries , feel free to reach out
 
-    GitHub : <a href="https://github.com/g">g</a>
+    GitHub : <a href="https://github.com/TeSingleton">TeSingleton</a>
 
-    Email:  <a href="mailto:g">g</a>
+    Email:  <a href="mailto:worksingletonmcdaniel@gmail.com">worksingletonmcdaniel@gmail.com</a>
 
     
