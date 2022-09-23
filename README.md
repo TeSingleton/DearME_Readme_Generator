@@ -8,13 +8,13 @@
 
     ## Table of Contents 
      
-* [Description] (#description)
-* [Installation] (#installation)
-* [Usage] (#usage)
-* [Contributing] (#contributing)
-* [Tests] (#tests)
-* [Questions?] (#questions)
-    
+* [Description](#description)
+* [Installation](#installation)
+* [Usage](#usage)
+* [Contributing](#contributing)
+* [Tests](#tests)
+* [Questions?](#questions)
+* [To-be-completed](#to-be-completed) 
     ## Installation 
     Clone the repo. Run `npm i` in the terminal, once depndencies have been downloaded run `node index.js`. Then Follow the prompts
 
