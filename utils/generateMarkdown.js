@@ -78,7 +78,7 @@ function showLicenseInfo(data) {
 // TODO: Create a function to generate markdown for README
 function generateMarkdown(data) {
   showLicenseInfo(data);
-  renderLicenseSection(data);
+  showLicenseButton(data);
   return `
   
     # ${data.title}

@@ -1,10 +1,10 @@
 
   
-    # l
+    # read
 
     ##Description
 
-    l
+    djkdjdj
 
     ## Table of Contents (clickable)
      
@@ -16,30 +16,30 @@
     * [Questions?] (#questions)
     
     ## Installation 
-    l
+    dkdkd
 
     ## Usage
 
-    l
+    kdjfif
 
     ## License
 
-    undefined
+    
 
     ## Contributing
 
-    l
+    svhja
 
     ## Tests
 
-    l
+    shfg
 
     ##Questions?
 
     Any inquiries , feel free to reach out
 
-    GitHub : <a href="https://github.com/l">l</a>
+    GitHub : <a href="https://github.com/TeSingleton">TeSingleton</a>
 
-    Email:  <a href="mailto:l">l</a>
+    Email:  <a href="mailto:worksingletonmcdaniel@gmail.com">worksingletonmcdaniel@gmail.com</a>
 
     
