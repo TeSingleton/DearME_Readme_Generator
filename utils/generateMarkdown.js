@@ -81,13 +81,13 @@ function generateMarkdown(data) {
   showLicenseButton(data);
   return `
   
-    # ${data.title}
+  # ${data.title}
 
-    ##Description
+  ##Description
 
     ${data.description}
 
-    ## Table of Contents (clickable)
+  ## Table of Contents (clickable)
      
  * [Description] (#description)
  * [Installation] (#installation)
@@ -96,32 +96,32 @@ function generateMarkdown(data) {
  * [Tests] (#tests)
  * [Questions?] (#questions)
     
-    ## Installation 
+  ## Installation 
     ${data.installation}
 
-    ## Usage
+  ## Usage
 
     ${data.usage}
 
-    ## License
+  ## License
 
     ${showLicenseInfo(data)}
 
-    ## Contributing
+  ## Contributing
 
     ${data.contributing}
 
-    ## Tests
+  ## Tests
 
     ${data.tests}
 
-    ##Questions?
+  ## Questions?
 
     Any inquiries , feel free to reach out
 
-    GitHub : <a href="https://github.com/${data.username}">${data.username}</a>
+  GitHub : <a href="https://github.com/${data.username}">${data.username}</a>
 
-    Email:  <a href="mailto:${data.email}">${data.email}</a>
+  Email:  <a href="mailto:${data.email}">${data.email}</a>
 
     `;
 }

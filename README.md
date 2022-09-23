@@ -1,8 +1,8 @@
 
   
-    # DearMe: A README Generator
+ # DearMe: A README Generator
 
-    ##Description
+## Description
 
     A Project built with Node.js and the inquirer package to create a README for your next project.
 
@@ -34,12 +34,12 @@
 
     
 
-    ##Questions?
+ ## Questions?
 
     Any inquiries , feel free to reach out
 
-    GitHub : <a href="https://github.com/TeSingleton">TeSingleton</a>
+  GitHub : <a href="https://github.com/TeSingleton">TeSingleton</a>
 
-    Email:  <a href="mailto:worksingletonmcdaniel@gmail.com">worksingletonmcdaniel@gmail.com</a>
+Email:  <a href="mailto:worksingletonmcdaniel@gmail.com">worksingletonmcdaniel@gmail.com</a>
 
     
