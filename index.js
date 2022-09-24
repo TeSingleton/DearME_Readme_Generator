@@ -1,6 +1,7 @@
 // TODO: Include packages needed for this application
 // write file
 const fs = require("fs");
+
 // ask the user for data //file system
 const inquirer = require("inquirer");
 
@@ -8,9 +9,6 @@ const questions = require("./utils/questions");
 // generate the html // inquire  npm package that provides an easy way to capture user input.
 const generateMd = require("./utils/generateMarkdown");
 // const generateMarkdown = require("./remove_when_done/generateMarkdown");
-
-// TODO: Create an array of questions for user input
-// an array of questions to provide into a call function for inquirer.
 
 // TODO: Create a function to write README file
 // this function will write the data from the inquirer questions into the readme
@@ -27,20 +25,3 @@ inquirer
           )
     );
   });
-
-// TODO: Create a function to initialize app
-// function init() {
-//     inquirer
-//     .prompt(questions)
-//     .then(function(data){
-//         console.log(data);
-//         writeToFile("./output/DearMe.md", generateMarkdown(data));
-//         console.log("I hope it works")
-//     })
-// }
-
-// // Ask the User questions
-// // THEN I want to pass the response to generateMD so we can get the  markdown
-
-// // function call to initialize app
-// init();

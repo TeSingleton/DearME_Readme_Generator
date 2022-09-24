@@ -1,11 +1,3 @@
-// If there is no license, return empty string
-
-// apache License 2.0
-// GNU General Public License v3.0
-// MIT  License
-// BSD 2-clause "Simplified" License
-// BSD 3-clause "New" or "Revised" License
-
 let licenseBadge = "";
 // license button section
 function showLicenseBadge(data) {
@@ -22,7 +14,7 @@ function showLicenseBadge(data) {
     licenseBadge =
       "[![License](https://img.shields.io/badge/License-BSD_3--Clause-brightgreen.svg)]";
   } else if (data.licensing === "No License") {
-    return "";
+    return ""; // if no license , return empty string
   }
 }
 
@@ -38,7 +30,7 @@ function showLicenseURL(data) {
   } else if (data.licensing.includes("BSD 3")) {
     licenseURL = "(https://opensource.org/licenses/BSD-3-Clause)";
   } else {
-    return "";
+    return ""; // if no license , return empty string
   }
 }
 
@@ -63,15 +55,6 @@ function showLicenseInfo(data) {
 
   return `${licenseInfo}`;
 }
-
-// function renderTitle(title) {
-//   return `# ${data.title}`;
-
-//   // data.title
-//   // data.description
-//   // data.authorName
-
-// }
 
 // TODO: Create a function to generate markdown for README
 function generateMarkdown(data) {
@@ -129,48 +112,3 @@ ${licenseBadge}${licenseURL}
 }
 
 module.exports = generateMarkdown;
-//     `# <Your-Project-Title>
-
-//     ## Description
-
-//     ${}
-
-//     ## Table of Contents (Optional)
-
-//     If your README is long, add a table of contents to make it easy for users to find what they need.
-
-//     - [Installation](#installation)
-//     - [Usage](#usage)
-//     - [Credits](#credits)
-//     - [License](#license)
-
-//     ## Installation
-
-//     ${}
-
-//     ## Usage
-
-//     ${}
-
-//     ## Credits
-
-//  ${}
-
-//     ## License
-
-//    ${}
-
-//     ## Features
-
-//     ${}
-
-//     ## How to Contribute
-
-//    ${}
-//     ## Tests
-
-//     ${}
-//   }
-// }
-
-// export markdown
