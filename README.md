@@ -52,6 +52,9 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 https://user-images.githubusercontent.com/104960721/192121787-77263146-405b-480c-b05b-9f9c9b253807.mp4
 
+You can also view Screen Capture on YouTube:
+https://youtu.be/aVAHQa2Xx_g
+
 
 ## GitHub : <a href="https://github.com/TeSingleton">TeSingleton</a>
 
