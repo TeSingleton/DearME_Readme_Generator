@@ -6,7 +6,7 @@
 // BSD 2-clause "Simplified" License
 // BSD 3-clause "New" or "Revised" License
 
-let licenseButton = "";
+let licenseBadge = "";
 // license button section
 function showLicenseBadge(data) {
   if (data.licensing.includes("Apache 2.0")) {
@@ -102,7 +102,7 @@ function generateMarkdown(data) {
     ${data.usage}
 
   ## License
-
+    ${licenseBadge}${licenseURL}
     ${showLicenseInfo(data)}
    
 
