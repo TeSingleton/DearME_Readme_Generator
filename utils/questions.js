@@ -48,7 +48,7 @@ const questions = [
     choices: [
       "MIT",
       "Apache 2.0",
-      "GPL 3.0",
+      "GPL v3",
       "BSD 3",
       "None (Don't print a badge)",
     ],
