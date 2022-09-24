@@ -15,6 +15,8 @@
   - [Tests](#tests)
   - [Questions?](#questions)
   - [Screen Capture Demo](#screen-capture-demo)
+  - [GitHub : <a href="https://github.com/TeSingleton">TeSingleton</a>](#github--tesingleton)
+  - [Email:  <a href="mailto:worksingletonmcdaniel@gmail.com">worksingletonmcdaniel@gmail.com</a>](#email--worksingletonmcdanielgmailcom)
     ## Installation 
    Visit the repo , clone down the project. Once the project is downloaded, run `npm i` in the terminal. After the node packages have been received , run `node index.js` and follow the prompts
 
@@ -47,8 +49,8 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
  ## Screen Capture Demo
 
-  GitHub : <a href="https://github.com/TeSingleton">TeSingleton</a>
+## GitHub : <a href="https://github.com/TeSingleton">TeSingleton</a>
 
-Email:  <a href="mailto:worksingletonmcdaniel@gmail.com">worksingletonmcdaniel@gmail.com</a>
+## Email:  <a href="mailto:worksingletonmcdaniel@gmail.com">worksingletonmcdaniel@gmail.com</a>
 
     
