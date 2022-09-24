@@ -13,7 +13,7 @@
   - [Questions?](#questions)
   - [To-Be-Completed](#to-be-completed)
     ## Installation 
-    Clone the repo. Run `npm i` in the terminal, once depndencies have been downloaded run `node index.js`. Then Follow the prompts
+    Clone the repo. Run `npm i` in the terminal, once dependencies have been downloaded run `node index.js`. Then Follow the prompts
 
     ## Usage
 

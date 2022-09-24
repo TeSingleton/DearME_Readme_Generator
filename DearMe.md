@@ -1,45 +1,45 @@
 
   
-    # DearMe: A README Generator
+# DearMe: A README Generator
 
-    ##Description
+## Description
 
-    A Project built with Node.js and the inquirer package to create a README for your next project.
+    A Project built with Node.js and the inquirer package to create a README for you next project 
 
-    ## Table of Contents 
+## Table of Contents (clickable)
      
-    * [Description] (#description)
-    * [Installation] (#installation)
-    * [Usage] (#usage)
-    * [Contributing] (#contributing)
-    * [Tests] (#tests)
-    * [Questions?] (#questions)
+ * [Description](#description)
+ * [Installation](#installation)
+ * [Usage](#usage)
+ * [Contributing](#contributing)
+ * [Tests](#tests)
+ * [Questions?](#questions)
     
-    ## Installation 
-    Clone the repo. Run `npm i` in the terminal, once depndencies have been downloaded run `node index.js`. Then Follow the prompts
+  ## Installation 
+    Clone the repo. Run `npm i` in the terminal, once dependencies have been downloaded run `node index.js`. Then Follow the prompts
 
-    ## Usage
+  ## Usage
 
     Use this application to create a readme faster
 
-    ## License
+  ## License
 
     
 
-    ## Contributing
+  ## Contributing
 
     All work is welcome . Please create an issue for any big changes
 
-    ## Tests
+  ## Tests
 
     
 
-    ##Questions?
+  ## Questions?
 
     Any inquiries , feel free to reach out
 
-    GitHub : <a href="https://github.com/TeSingleton">TeSingleton</a>
+  GitHub : <a href="https://github.com/TeSingleton">TeSingleton</a>
 
-    Email:  <a href="mailto:worksingletonmcdaniel@gmail.com">worksingletonmcdaniel@gmail.com</a>
+  Email:  <a href="mailto:worksingletonmcdaniel@gmail.com">worksingletonmcdaniel@gmail.com</a>
 
     

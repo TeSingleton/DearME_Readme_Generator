@@ -25,8 +25,6 @@ function showLicenseButton(data) {
     return "";
   }
 }
-{
-}
 
 // license link section
 let licenseURL = "";
@@ -81,13 +79,13 @@ function generateMarkdown(data) {
   showLicenseButton(data);
   return `
   
-  # ${data.title}
+# ${data.title}
 
-  ##Description
+## Description
 
     ${data.description}
 
-  ## Table of Contents (clickable)
+## Table of Contents (clickable)
      
  * [Description](#description)
  * [Installation](#installation)
