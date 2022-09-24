@@ -61,7 +61,7 @@ function showLicenseInfo(data) {
     return "No licensing information at this time.";
   }
 
-  return `${licenseInfo}`
+  return `${licenseInfo}`;
 }
 
 // function renderTitle(title) {
@@ -104,7 +104,7 @@ function generateMarkdown(data) {
   ## License
 
     ${showLicenseInfo(data)}
-    ${showLicenseButton(data)}
+   
 
   ## Contributing
 

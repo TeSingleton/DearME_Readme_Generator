@@ -7,7 +7,7 @@ const inquirer = require("inquirer");
 const questions = require("./utils/questions");
 // generate the html // inquire  npm package that provides an easy way to capture user input.
 const generateMd = require("./utils/generateMarkdown");
-const generateMarkdown = require("./remove_when_done/generateMarkdown");
+// const generateMarkdown = require("./remove_when_done/generateMarkdown");
 
 // TODO: Create an array of questions for user input
 // an array of questions to provide into a call function for inquirer.
